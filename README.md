@@ -9,7 +9,7 @@ This tool helps you monitor course availability at the University of Waterloo us
    ```bash
    pip install -r requirements.txt
    ```
-3. Get your API key from the [Waterloo Open Data API]([https://openapi.data.uwaterloo.ca/](https://uwaterloo.atlassian.net/wiki/spaces/UWAPI/pages/34025641600/Getting+Started+-+OpenAPI))
+3. Get your API key from the [Waterloo Open API]([https://classes.uwaterloo.ca/under.html](https://uwaterloo.ca/api/))
 
 ## Usage
 
@@ -29,6 +29,6 @@ The script will:
 
 Press Ctrl+C to stop the script.
 
-- Term Codes, Section Numbers and Classes for each term can be found on [class](https://classes.uwaterloo.ca/under.html)
+- Term Codes, Section Numbers and Classes for each term can be found on [Undergraduate Schedule of Classes](https://classes.uwaterloo.ca/under.html)
 
 
