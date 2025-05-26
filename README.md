@@ -23,16 +23,12 @@ The script will:
 2. Prompt for the course information:
    - Subject code (e.g., CS)
    - Catalog number (e.g., 135)
-   - Term (e.g., 1255 for Winter 2023)
+   - Term (e.g., 1255 for Spring 2025)
 3. Check the course availability immediately and then every 2 minutes
 4. Notify you when a spot becomes available
 
 Press Ctrl+C to stop the script.
 
-## Notes
+- Term Codes, Section Numbers and Classes for each term can be found on [class](https://classes.uwaterloo.ca/under.html)
 
-- Term Codes can be found on [class](https://classes.uwaterloo.ca/under.html)
-  - For the term of release, 1255 means Spring 2025
 
-- The script will continue running until you stop it with Ctrl+C
-- It checks for availability every 2 minutes
