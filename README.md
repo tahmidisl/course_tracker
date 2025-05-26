@@ -9,7 +9,7 @@ This tool helps you monitor course availability at the University of Waterloo us
    ```bash
    pip install -r requirements.txt
    ```
-3. Get your API key from the [Waterloo Open Data API](https://openapi.data.uwaterloo.ca/)
+3. Get your API key from the [Waterloo Open Data API]([https://openapi.data.uwaterloo.ca/](https://uwaterloo.atlassian.net/wiki/spaces/UWAPI/pages/34025641600/Getting+Started+-+OpenAPI))
 
 ## Usage
 
