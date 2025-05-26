@@ -9,7 +9,7 @@ This tool helps you monitor course availability at the University of Waterloo us
    ```bash
    pip install -r requirements.txt
    ```
-3. Get your API key from the [Waterloo Open API]([https://classes.uwaterloo.ca/under.html](https://uwaterloo.ca/api/))
+3. Get your API key from the [Waterloo Open API](https://uwaterloo.ca/api/)
 
 ## Usage
 
